@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\bin\Debug\net5.0\ArrayClassMethods.exe
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\bin\Debug\net5.0\ArrayClassMethods.deps.json
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\bin\Debug\net5.0\ArrayClassMethods.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\bin\Debug\net5.0\ArrayClassMethods.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\bin\Debug\net5.0\ArrayClassMethods.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\bin\Debug\net5.0\ArrayClassMethods.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ArrayClassMethods.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ArrayClassMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ArrayClassMethods.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ArrayClassMethods.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ArrayClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ArrayClassMethods.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\refint\ArrayClassMethods.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ArrayClassMethods.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ArrayClassMethods.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\ArrayClassMethods\ArrayClassMethods\obj\Debug\net5.0\ref\ArrayClassMethods.dll

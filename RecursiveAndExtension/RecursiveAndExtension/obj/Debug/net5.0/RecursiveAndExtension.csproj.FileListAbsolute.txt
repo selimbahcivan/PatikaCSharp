@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\bin\Debug\net5.0\RecursiveAndExtension.exe
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\bin\Debug\net5.0\RecursiveAndExtension.deps.json
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\bin\Debug\net5.0\RecursiveAndExtension.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\bin\Debug\net5.0\RecursiveAndExtension.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\bin\Debug\net5.0\RecursiveAndExtension.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\bin\Debug\net5.0\RecursiveAndExtension.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\RecursiveAndExtension.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\RecursiveAndExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\RecursiveAndExtension.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\RecursiveAndExtension.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\RecursiveAndExtension.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\RecursiveAndExtension.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\refint\RecursiveAndExtension.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\RecursiveAndExtension.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\RecursiveAndExtension.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\RecursiveAndExtension\RecursiveAndExtension\obj\Debug\net5.0\ref\RecursiveAndExtension.dll

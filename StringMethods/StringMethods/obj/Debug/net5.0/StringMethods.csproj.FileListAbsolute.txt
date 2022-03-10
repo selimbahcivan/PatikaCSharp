@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\bin\Debug\net5.0\StringMethods.exe
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\bin\Debug\net5.0\StringMethods.deps.json
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\bin\Debug\net5.0\StringMethods.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\bin\Debug\net5.0\StringMethods.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\bin\Debug\net5.0\StringMethods.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\bin\Debug\net5.0\StringMethods.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\StringMethods.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\StringMethods.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\StringMethods.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\StringMethods.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\refint\StringMethods.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\StringMethods.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\StringMethods.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\StringMethods\StringMethods\obj\Debug\net5.0\ref\StringMethods.dll

@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\bin\Debug\net5.0\fourthWork.exe
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\bin\Debug\net5.0\fourthWork.deps.json
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\bin\Debug\net5.0\fourthWork.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\bin\Debug\net5.0\fourthWork.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\bin\Debug\net5.0\fourthWork.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\bin\Debug\net5.0\fourthWork.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\fourthWork.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\fourthWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\fourthWork.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\fourthWork.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\fourthWork.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\fourthWork.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\refint\fourthWork.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\fourthWork.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\fourthWork.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\Homework1\fourthWork\fourthWork\obj\Debug\net5.0\ref\fourthWork.dll
