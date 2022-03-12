@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\bin\Debug\net5.0\Collections_ArrayList.exe
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\bin\Debug\net5.0\Collections_ArrayList.deps.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\bin\Debug\net5.0\Collections_ArrayList.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\bin\Debug\net5.0\Collections_ArrayList.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\bin\Debug\net5.0\Collections_ArrayList.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\bin\Debug\net5.0\Collections_ArrayList.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\Collections_ArrayList.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\Collections_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\Collections_ArrayList.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\Collections_ArrayList.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\Collections_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\Collections_ArrayList.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\refint\Collections_ArrayList.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\Collections_ArrayList.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\Collections_ArrayList.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_ArrayList\Collections_ArrayList\obj\Debug\net5.0\ref\Collections_ArrayList.dll
