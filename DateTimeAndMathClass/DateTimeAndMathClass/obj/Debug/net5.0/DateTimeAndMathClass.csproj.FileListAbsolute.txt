@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\bin\Debug\net5.0\DateTimeAndMathClass.exe
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\bin\Debug\net5.0\DateTimeAndMathClass.deps.json
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\bin\Debug\net5.0\DateTimeAndMathClass.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\bin\Debug\net5.0\DateTimeAndMathClass.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\bin\Debug\net5.0\DateTimeAndMathClass.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\bin\Debug\net5.0\DateTimeAndMathClass.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\DateTimeAndMathClass.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\DateTimeAndMathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\DateTimeAndMathClass.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\DateTimeAndMathClass.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\DateTimeAndMathClass.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\DateTimeAndMathClass.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\refint\DateTimeAndMathClass.dll
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\DateTimeAndMathClass.pdb
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\DateTimeAndMathClass.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\C#\DateTimeAndMathClass\DateTimeAndMathClass\obj\Debug\net5.0\ref\DateTimeAndMathClass.dll
