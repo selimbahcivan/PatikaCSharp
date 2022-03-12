@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\bin\Debug\net5.0\GenericCollections_List.exe
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\bin\Debug\net5.0\GenericCollections_List.deps.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\bin\Debug\net5.0\GenericCollections_List.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\bin\Debug\net5.0\GenericCollections_List.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\bin\Debug\net5.0\GenericCollections_List.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\bin\Debug\net5.0\GenericCollections_List.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\GenericCollections_List.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\GenericCollections_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\GenericCollections_List.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\GenericCollections_List.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\GenericCollections_List.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\GenericCollections_List.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\refint\GenericCollections_List.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\GenericCollections_List.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\GenericCollections_List.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\GenericCollections_List\GenericCollections_List\obj\Debug\net5.0\ref\GenericCollections_List.dll
