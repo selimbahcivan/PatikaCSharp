@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\bin\Debug\net5.0\StaticClassesAndMembers.exe
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\bin\Debug\net5.0\StaticClassesAndMembers.deps.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\bin\Debug\net5.0\StaticClassesAndMembers.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\bin\Debug\net5.0\StaticClassesAndMembers.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\bin\Debug\net5.0\StaticClassesAndMembers.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\bin\Debug\net5.0\StaticClassesAndMembers.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\StaticClassesAndMembers.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\StaticClassesAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\StaticClassesAndMembers.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\StaticClassesAndMembers.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\StaticClassesAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\StaticClassesAndMembers.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\refint\StaticClassesAndMembers.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\StaticClassesAndMembers.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\StaticClassesAndMembers.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\StaticClassesAndMembers\StaticClassesAndMembers\obj\Debug\net5.0\ref\StaticClassesAndMembers.dll
