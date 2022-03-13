@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.exe
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.deps.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\refint\Collections_Dictionary.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\Collections_Dictionary\Collections_Dictionary\obj\Debug\net5.0\ref\Collections_Dictionary.dll

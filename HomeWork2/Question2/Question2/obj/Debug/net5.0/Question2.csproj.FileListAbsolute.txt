@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\Question2.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\Question2.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\Question2.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\Question2.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\bin\Debug\net5.0\Question2.exe
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\bin\Debug\net5.0\Question2.deps.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\bin\Debug\net5.0\Question2.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\bin\Debug\net5.0\Question2.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\bin\Debug\net5.0\Question2.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\bin\Debug\net5.0\Question2.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\Question2.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\refint\Question2.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\Question2.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\Question2.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\HomeWork2\Question2\Question2\obj\Debug\net5.0\ref\Question2.dll
