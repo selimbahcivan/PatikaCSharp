@@ -6,22 +6,39 @@ namespace Fıeld_MethodDeclaration_AccessModifiers
     {
         static void Main(string[] args)
         {
-            Personal personal1 = new Personal();
-            personal1.name = "Selim";
-            personal1.surname = "Bahcıvan";
-            personal1.age = 24;
-            personal1.department = "Engineer";
-            personal1.PersonalInfo();
+
+            Console.WriteLine("*********Çalışan 1 *************");
+            Employee employee1 = new Employee("Selim", "Bahcıvan", 24, "Engineer");
+            employee1.EmployeeInfo();
+
+            Console.WriteLine("*********Çalışan 2 *************");
+            Employee employee2 = new Employee("Yavuz", "Bahcıvan");
+            employee2.EmployeeInfo();
+
+            
         }
-    }
-    class Personal
+    }       
+    class Employee
     {
         public string name;
         public string surname;
         public int age;
         public string department;
 
-        public void PersonalInfo()
+        public Employee(string name, string surname, int age, string department )
+        {
+            this.name = name;
+            this.surname = surname;
+            this.age = age;
+            this.department = department;
+        }
+        // Constructor Overloading
+        public Employee(string name, string surname)
+        {
+            this.name = name;
+            this.surname = surname;
+        }
+        public void EmployeeInfo()
         {
             Console.WriteLine("Name : " +name);
             Console.WriteLine("Surname : " + surname);
