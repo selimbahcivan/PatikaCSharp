@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.exe
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.deps.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\bin\Debug\net5.0\EncapsulationAndProperties.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\refint\EncapsulationAndProperties.dll
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.pdb
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\EncapsulationAndProperties.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\PatikaC#\EncapsulationAndProperties\EncapsulationAndProperties\obj\Debug\net5.0\ref\EncapsulationAndProperties.dll
