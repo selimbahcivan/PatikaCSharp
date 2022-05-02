@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\TypeConversions\\TypeConversions\\TypeConversions.csproj",
+      "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\TypeConversions\\TypeConversions\\TypeConversions.csproj",
       "projectName": "TypeConversions",
-      "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\TypeConversions\\TypeConversions\\TypeConversions.csproj",
+      "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\TypeConversions\\TypeConversions\\TypeConversions.csproj",
       "packagesPath": "C:\\Users\\selim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\TypeConversions\\TypeConversions\\obj\\",
+      "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\TypeConversions\\TypeConversions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\selim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

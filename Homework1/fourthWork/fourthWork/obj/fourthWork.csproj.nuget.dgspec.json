@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\Homework1\\fourthWork\\fourthWork\\fourthWork.csproj": {}
+    "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\Homework1\\fourthWork\\fourthWork\\fourthWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\Homework1\\fourthWork\\fourthWork\\fourthWork.csproj": {
+    "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\Homework1\\fourthWork\\fourthWork\\fourthWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\Homework1\\fourthWork\\fourthWork\\fourthWork.csproj",
+        "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\Homework1\\fourthWork\\fourthWork\\fourthWork.csproj",
         "projectName": "fourthWork",
-        "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\Homework1\\fourthWork\\fourthWork\\fourthWork.csproj",
+        "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\Homework1\\fourthWork\\fourthWork\\fourthWork.csproj",
         "packagesPath": "C:\\Users\\selim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\Homework1\\fourthWork\\fourthWork\\obj\\",
+        "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\Homework1\\fourthWork\\fourthWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\selim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

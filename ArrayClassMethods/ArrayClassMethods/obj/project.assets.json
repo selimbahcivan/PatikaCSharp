@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\ArrayClassMethods\\ArrayClassMethods\\ArrayClassMethods.csproj",
+      "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\ArrayClassMethods\\ArrayClassMethods\\ArrayClassMethods.csproj",
       "projectName": "ArrayClassMethods",
-      "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\ArrayClassMethods\\ArrayClassMethods\\ArrayClassMethods.csproj",
+      "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\ArrayClassMethods\\ArrayClassMethods\\ArrayClassMethods.csproj",
       "packagesPath": "C:\\Users\\selim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\C#\\ArrayClassMethods\\ArrayClassMethods\\obj\\",
+      "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\ArrayClassMethods\\ArrayClassMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\selim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,6 +7,7 @@ namespace TypeConversions
         static void Main(string[] args)
         {
             //Implicit Conversion (Bilinçsiz Dönüşüm)
+            Console.WriteLine("IMPLICIT");
             byte a = 5;
             sbyte b = 30;
             short c = 10;
@@ -26,7 +27,7 @@ namespace TypeConversions
             Console.WriteLine("g:" + g);
 
             //Explicit Conversion(Bilinçli Dönüşüm)
-
+            Console.WriteLine("EXPLICIT");
             int x = 4;
             byte y = (byte)x;
             Console.WriteLine("y: " + y);

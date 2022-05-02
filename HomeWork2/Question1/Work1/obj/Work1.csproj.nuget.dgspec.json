@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Work1\\Work1\\Work1.csproj": {}
+    "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Question1\\Work1\\Work1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Work1\\Work1\\Work1.csproj": {
+    "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Question1\\Work1\\Work1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Work1\\Work1\\Work1.csproj",
+        "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Question1\\Work1\\Work1.csproj",
         "projectName": "Work1",
-        "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Work1\\Work1\\Work1.csproj",
+        "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Question1\\Work1\\Work1.csproj",
         "packagesPath": "C:\\Users\\selim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Work1\\Work1\\obj\\",
+        "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\HomeWork2\\Question1\\Work1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\selim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
