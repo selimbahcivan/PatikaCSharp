@@ -1,0 +1,16 @@
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\bin\Debug\net5.0\ToDoApplication.exe
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\bin\Debug\net5.0\ToDoApplication.deps.json
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\bin\Debug\net5.0\ToDoApplication.runtimeconfig.json
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\bin\Debug\net5.0\ToDoApplication.runtimeconfig.dev.json
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\bin\Debug\net5.0\ToDoApplication.dll
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\bin\Debug\net5.0\ToDoApplication.pdb
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ToDoApplication.csproj.AssemblyReference.cache
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ToDoApplication.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ToDoApplication.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ToDoApplication.dll
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\refint\ToDoApplication.dll
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ToDoApplication.pdb
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ToDoApplication.genruntimeconfig.cache
+C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\obj\Debug\net5.0\ref\ToDoApplication.dll

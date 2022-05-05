@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = PhoneDirectory
-build_property.ProjectDir = C:\Users\selim\OneDrive\Masaüstü\PatikaC#\FirstProject\PhoneDirectoryApplication\PhoneDirectory\
+build_property.RootNamespace = ToDoApplication
+build_property.ProjectDir = C:\Users\selim\OneDrive\Masaüstü\ToDoApplication\ToDoApplication\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\FirstProject\\PhoneDirectoryApplication\\PhoneDirectory\\PhoneDirectory.csproj": {}
+    "C:\\Users\\selim\\OneDrive\\Masaüstü\\ToDoApplication\\ToDoApplication\\ToDoApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\FirstProject\\PhoneDirectoryApplication\\PhoneDirectory\\PhoneDirectory.csproj": {
+    "C:\\Users\\selim\\OneDrive\\Masaüstü\\ToDoApplication\\ToDoApplication\\ToDoApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\FirstProject\\PhoneDirectoryApplication\\PhoneDirectory\\PhoneDirectory.csproj",
-        "projectName": "PhoneDirectory",
-        "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\FirstProject\\PhoneDirectoryApplication\\PhoneDirectory\\PhoneDirectory.csproj",
+        "projectUniqueName": "C:\\Users\\selim\\OneDrive\\Masaüstü\\ToDoApplication\\ToDoApplication\\ToDoApplication.csproj",
+        "projectName": "ToDoApplication",
+        "projectPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\ToDoApplication\\ToDoApplication\\ToDoApplication.csproj",
         "packagesPath": "C:\\Users\\selim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\PatikaC#\\FirstProject\\PhoneDirectoryApplication\\PhoneDirectory\\obj\\",
+        "outputPath": "C:\\Users\\selim\\OneDrive\\Masaüstü\\ToDoApplication\\ToDoApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\selim\\AppData\\Roaming\\NuGet\\NuGet.Config",
